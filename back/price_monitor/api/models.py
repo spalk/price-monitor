@@ -8,8 +8,3 @@ class Product(models.Model):
     number_of_followers = models.IntegerField()
     created_at = models.DateTimeField(auto_now_add=True)
 
-    def __str__(self):
-        return 
-
-    def __unicode__(self):
-        return 
