@@ -4,6 +4,9 @@
 # vscode
 .vscode/
 
+# node.js
+node_modules/
+
 # Python
 # Source:  https://github.com/github/gitignore/blob/master/Python.gitignore
 
