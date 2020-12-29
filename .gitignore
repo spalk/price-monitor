@@ -6,6 +6,7 @@
 
 # node.js
 node_modules/
+price_monitor_project/frontend/static/frontend/
 
 # Python
 # Source:  https://github.com/github/gitignore/blob/master/Python.gitignore
